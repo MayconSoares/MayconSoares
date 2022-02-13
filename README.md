@@ -2,7 +2,7 @@
 
 ▪ Estou em fase de transição da área comercial para o Desenvolvimento Web 👨‍💻<br>
 
-▪ Atulmente estudo HTML, CSS e JavaScript 📕 <br>  
+▪ Atualmente estudo HTML, CSS e JavaScript 📕 <br>  
 
 ▪ Sou Biólogo, possuo formação em Marketing Digital e lecionar  😎
 
