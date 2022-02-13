@@ -1,4 +1,4 @@
-## Olá! Eu sou o Maycon Soares,  tudo bem? 
+## Olá! Eu sou o Maycon,  tudo bem? 
 
 ▪ Estou em fase de transição da área comercial para o Desenvolvimento Web 👨‍💻<br>
 
