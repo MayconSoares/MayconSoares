@@ -4,7 +4,7 @@
 
 ▪ Atualmente estudo HTML, CSS e JavaScript 📕 <br>  
 
-▪ Sou Biólogo, possuo formação em Marketing Digital e lecionar  😎
+▪ Sou biólogo, possuo formação em marketing digital e amo lecionar  😎
 
 <div align="center">
   <a href="https://github.com/MayconSoares/">
