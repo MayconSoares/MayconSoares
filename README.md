@@ -2,9 +2,9 @@
 
 ▪ Estou em fase de transição da área comercial para o Desenvolvimento Web 👨‍💻<br>
 
-▪ Atualmente estudo HTML, CSS e JavaScript 📕 <br>  
+▪ Estudante no curso de Formação de Desenvolvedores para Tecnologia da Informação - UNOESC 
 
-▪ Sou biólogo, possuo formação em marketing digital e amo lecionar  😎
+▪ Além disso sou biólogo, possuo formação em marketing digital e amo lecionar  😎
 
 <div align="center">
   <a href="https://github.com/MayconSoares/">
